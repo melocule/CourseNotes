@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ca9c3fb27b038dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9107aaaa27cc417b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ethernet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc50ebd1df6a8c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9854236872119c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b6a73fb075651c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee96edea4eea4afb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "238f67019f468b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "948d8c76b0e3966f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f2efae7fce214a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethernet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9107aaaa27cc417b",
+  "lastOpenFiles": [
+    "Ethernet.md",
+    "Data Link Layer.md"
+  ]
+}

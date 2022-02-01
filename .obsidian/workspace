@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "e512ab9ad3291a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c1d2b3d586ce55",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53ad77eb41f1c11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1591cc0f32c67d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8930c9bcbac7e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "803b73c0b9a6fe22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfa556fc01c1a371",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed741e6ab5daf19b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd6e358a4a6bf57b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aec92305bb6053f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "346e95c7c72e345f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e921c6333e14a96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "75c1d2b3d586ce55",
+  "lastOpenFiles": [
+    "Networks/Ethernet.md",
+    "Networks/Textbook.pdf",
+    "Information Viz/Assignments/A2—Encodings & xenographics.md",
+    "Information Viz/Assignments/Pasted image 20220128164856.png",
+    "Information Viz/Model.md",
+    "Information Viz/(A.K. Peters visualization series) Tamara Munzner - Visualization analysis and design-CRC Press Taylor & Francis Group (2014) (1).pdf",
+    "Networks/attachments/Pasted image 20220128095932.png",
+    "Networks/Data Link Layer.md",
+    "Org Behavior/MBTI Self-Assessment Form 2 pages.pdf",
+    "Org Behavior/Personality.md"
+  ]
+}
