@@ -7,8 +7,12 @@
         "id": "75c1d2b3d586ce55",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Org Behavior/Personality.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Org Behavior/Personality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Org Behavior/Personality.md"
+              }
             }
           },
           {
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Org Behavior/Personality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,8 +109,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ce119cf68d8b3f84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -110,15 +127,15 @@
   },
   "active": "75c1d2b3d586ce55",
   "lastOpenFiles": [
+    "Org Behavior/Personality.md",
+    "Presentation/Reflection on Intro.md",
+    "Org Behavior/ORGB.md",
     "Networks/Ethernet.md",
     "Networks/Textbook.pdf",
     "Information Viz/Assignments/A2—Encodings & xenographics.md",
     "Information Viz/Assignments/Pasted image 20220128164856.png",
     "Information Viz/Model.md",
     "Information Viz/(A.K. Peters visualization series) Tamara Munzner - Visualization analysis and design-CRC Press Taylor & Francis Group (2014) (1).pdf",
-    "Networks/attachments/Pasted image 20220128095932.png",
-    "Networks/Data Link Layer.md",
-    "Org Behavior/MBTI Self-Assessment Form 2 pages.pdf",
-    "Org Behavior/Personality.md"
+    "Networks/attachments/Pasted image 20220128095932.png"
   ]
 }
