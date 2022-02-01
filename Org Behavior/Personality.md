@@ -9,7 +9,7 @@ Claim: core hardwired, behavior changes.
 
 Pros of MBTI:
 - Simplifies things, makes initially learning about personality differences feel approachable
-- Provides a sense of identity
+- Provides a sense of identity  
 Cons:
 - Oversimplification, doesn't try to account for personality changes between context
 - Doesn't include neuroticism (which is in the Big 5) which has heavy implifcations on mental health
